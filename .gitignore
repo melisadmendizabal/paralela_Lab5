@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Imagen 8K generada por imagen.py (caché de ~95 MB)
+imagen_8k.npy
+

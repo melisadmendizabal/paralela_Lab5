@@ -1,0 +1,5 @@
+numba-cuda[cu12]==0.30.4
+# numba-cuda 0.30 todavía usa np.row_stack, eliminado en NumPy 2.5
+numpy>=2.0,<2.4
+# solo para guardar la vista previa (blur_preview.png)
+matplotlib
